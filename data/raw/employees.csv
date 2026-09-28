@@ -1,0 +1,16 @@
+ Employee ID ,Employee Name,Department ,Salary,Joining Date
+E001, Rahul Kumar ,Engineering,"₹50,000",2024-01-15
+E002,PRIYA REDDY,engineering,"Rs. 60,000",15/02/2024
+E003, John123 ,ENGINEERING,"INR 55000",2024/03/10
+E004,  Sneha Rao , HR,"₹45,000",10-04-2024
+E005,Arjun!!!,hr,"$1,200",Apr 15 2024
+E006,Vijay Kumar,Human Resources,"USD 1500",2024-05-20
+E007,,Finance,"₹70,000",2024-06-01
+E008, Meena Patel ,finance,,01/07/2024
+E009,Suresh, FINANCE ,"-5000",2024-08-15
+E010,Lakshmi,Engineering,"75,000",invalid-date
+E011,Ravi Rao,engineering,"INR 80000",2024-10-01 09:30:00
+E012,Ravi Rao,engineering,"INR 80000",2024-10-01 09:30:00
+E012,Ravi Rao,engineering,"INR 80000",2024-10-01 09:30:00
+E013,Asha,F,"₹55,000",2024-11-15
+E014,Kiran,Finance,"unknown",N/A

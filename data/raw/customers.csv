@@ -1,0 +1,16 @@
+ Customer ID ,Customer Name,Age ,Gender, City ,Email
+ C001 , Rahul Sharma ,25,Male,Hyderabad, rahul@gmail.com 
+C002,Priya Reddy, 28 ,female,hyderabad ,priya@gmail.com
+C003, JOHN DOE ,30,M,HYDERABAD,john@gmail.com
+C004,,35,F,Bengaluru,anita@gmail.com
+C005,Kiran123,unknown,male, Bengaluru ,kiran@gmail.com
+C006,  Sneha Rao,27,Female,Bengaluru,
+C007,Arjun!!!,40,MALE,Chennai,arjun@@gmail.com
+C008,Vijay Kumar , ,m, chennai,vijay@gmail.com
+C009, Meena Patel ,29,FEMALE,Mumbai,meena @gmail.com
+C010,Suresh,150,Male,mumbai,suresh@gmail.com
+C011,Lakshmi,-4,female, Hyderabad ,lakshmi@gmail.com
+C012,  Ravi  ,32,M,Delhi,ravi@gmail.com
+C012,  Ravi  ,32,M,Delhi,ravi@gmail.com
+C013,Asha,26,f,delhi,asha@gmail.com
+C014,Ramesh,unknown,male,Delhi,ramesh@gmail.com

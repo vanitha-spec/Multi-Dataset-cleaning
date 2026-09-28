@@ -1,0 +1,95 @@
+customers:
+
+  required_columns:
+    - customer_id
+    - customer_name
+    - age
+    - gender
+    - city
+    - email
+
+  required_values:
+    - customer_id
+    - customer_name
+
+  gender_mapping:
+    Male: Male
+    male: Male
+    MALE: Male
+    M: Male
+    m: Male
+    Female: Female
+    female: Female
+    FEMALE: Female
+    F: Female
+    f: Female
+
+  age:
+    minimum: 18
+    maximum: 100
+
+  unique_columns:
+    - customer_id
+
+  email_columns:
+    - email
+
+
+orders:
+
+  required_columns:
+    - order_id
+    - customer_id
+    - product_id
+    - quantity
+    - unit_price
+    - order_date
+
+  required_values:
+    - order_id
+
+  positive_columns:
+    - quantity
+    - unit_price
+
+  unique_columns:
+    - order_id
+
+
+products:
+
+  required_columns:
+    - product_id
+    - product_name
+    - category
+    - price
+
+  required_values:
+    - product_id
+    - product_name
+
+  positive_columns:
+    - price
+
+  unique_columns:
+    - product_id
+
+
+employees:
+
+  required_columns:
+    - employee_id
+    - employee_name
+    - department
+    - salary
+    - joining_date
+
+  required_values:
+    - employee_id
+    - employee_name
+
+  positive_columns:
+    - salary
+
+  unique_columns:
+    - employee_id

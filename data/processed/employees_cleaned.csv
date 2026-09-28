@@ -1,0 +1,15 @@
+employee_id,employee_name,department,salary,joining_date,salary_currency,salary_amount
+E001,Rahul Kumar,Engineering,"₹50,000",2024-01-15,INR,50000
+E002,PRIYA REDDY,engineering,"Rs. 60,000",,INR,60000
+E003,John,ENGINEERING,INR 55000,,INR,55000
+E004,Sneha Rao,HR,"₹45,000",,INR,45000
+E005,Arjun,hr,"$1,200",,USD,1200
+E006,Vijay Kumar,Human Resources,USD 1500,2024-05-20,USD,1500
+E007,,Finance,"₹70,000",2024-06-01,INR,70000
+E008,Meena Patel,finance,,,,
+E009,Suresh,FINANCE,-5000,2024-08-15,UNKNOWN,-5000
+E010,Lakshmi,Engineering,"75,000",,UNKNOWN,75000
+E011,Ravi Rao,engineering,INR 80000,,INR,80000
+E012,Ravi Rao,engineering,INR 80000,,INR,80000
+E013,Asha,F,"₹55,000",2024-11-15,INR,55000
+E014,Kiran,Finance,unknown,,UNKNOWN,

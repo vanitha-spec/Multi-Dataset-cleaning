@@ -1,0 +1,12 @@
+pandas
+openpyxl
+pyyaml
+pytest
+
+
+# | Library    | Purpose                        |
+# | ---------- | ------------------------------ |
+# | `pandas`   | Data cleaning and manipulation |
+# | `openpyxl` | Reading/writing Excel          |
+# | `pyyaml`   | Reading cleaning rules         |
+# | `pytest`   | Testing our code               |
